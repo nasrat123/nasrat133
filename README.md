@@ -57,7 +57,7 @@ A Django web app to manage income records with:
 - 📑 Statement filtering and PDF/Excel export  
 - 📊 Dashboard with opening, closing, and net balances
 
-🔗 [View Repository](https://github.com/nasrat123/income-management-system) *(update this link when you upload)*
+🔗 [View Repository](https://github.com/nasrat123/PMS) 
 
 ---
 
