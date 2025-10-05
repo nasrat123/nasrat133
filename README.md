@@ -45,7 +45,7 @@ A complete Django-based system with modules for Patients, Doctors, Lab Examinati
 - Patient detail view, dashboards, invoicing, and reporting  
 - Integrated finance module with automatic calculations
 
-🔗 [View Repository](https://github.com/nasrat123/hospital-management-system) *(update this link when you upload)*
+🔗 [View Repository](https://github.com/nasrat123/PMS)
 
 ---
 
